@@ -11,3 +11,6 @@
 - Rota para listar aulas;
  - Filtrar por matéria, dia da semana e horário;
 
+:rocket: Tecnologias utilizadas
+- Node
+- Expo
